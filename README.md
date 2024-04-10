@@ -1,1 +1,1 @@
-E-commerce em reacte javaScript
+E-commerce em react e javaScript
